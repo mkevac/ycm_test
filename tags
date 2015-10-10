@@ -1,0 +1,187 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BADOO__MEETMAKER__IPC__IPC_CLIENT_REQUEST__INIT	src/meetmaker-ipc.pb-c.h	51;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_CLIENT_RESPONSE__INIT	src/meetmaker-ipc.pb-c.h	63;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_E2S_PORT__INIT	src/meetmaker-ipc.pb-c.h	95;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_MSG__INIT	src/meetmaker-ipc.pb-c.h	135;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_REINDEX_CITIES__INIT	src/meetmaker-ipc.pb-c.h	73;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_RSYNCD_PORT__INIT	src/meetmaker-ipc.pb-c.h	118;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_S2S_PORT__INIT	src/meetmaker-ipc.pb-c.h	107;"	d	language:C++
+BADOO__MEETMAKER__IPC__IPC_SNAPSHOT_SYNC_STATE__INIT	src/meetmaker-ipc.pb-c.h	83;"	d	language:C++
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_CLIENT_REQUEST	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_CLIENT_REQUEST = 1,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_CLIENT_RESPONSE	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_CLIENT_RESPONSE = 2,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_E2S_PORT	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_E2S_PORT = 8,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_BMPID_INDEXES_CREATED	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_BMPID_INDEXES_CREATED = 13,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_E2S_CONNECTED	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_E2S_CONNECTED = 11,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_S2S_CONNECTED	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_S2S_CONNECTED = 12,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_STORAGE_SYNC	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_STORAGE_SYNC = 14,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_TO_RUN	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_READY_TO_RUN = 15$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_REINDEX_CITIES	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_REINDEX_CITIES = 3,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_REOPEN_LOG	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_REOPEN_LOG = 4,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_RSYNCD_PORT	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_RSYNCD_PORT = 10,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_S2S_PORT	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_S2S_PORT = 9,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_ACQUIRE	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_ACQUIRE = 5,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_RELEASE	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_RELEASE = 6,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_STATE	src/meetmaker-ipc.pb-c.h	/^  BADOO__MEETMAKER__IPC__MSG_TYPE__IPC_SNAPSHOT_SYNC_STATE = 7,$/;"	e	language:C++	enum:_Badoo__Meetmaker__Ipc__MsgType
+Badoo__Meetmaker__Ipc__IpcClientRequest	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcClientRequest Badoo__Meetmaker__Ipc__IpcClientRequest;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+Badoo__Meetmaker__Ipc__IpcClientRequest_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcClientRequest_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcClientResponse	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcClientResponse Badoo__Meetmaker__Ipc__IpcClientResponse;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcClientResponse
+Badoo__Meetmaker__Ipc__IpcClientResponse_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcClientResponse_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcE2sPort	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcE2sPort Badoo__Meetmaker__Ipc__IpcE2sPort;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcE2sPort
+Badoo__Meetmaker__Ipc__IpcE2sPort_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcE2sPort_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcMsg	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcMsg Badoo__Meetmaker__Ipc__IpcMsg;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcMsg
+Badoo__Meetmaker__Ipc__IpcMsg_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcMsg_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcReindexCities	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcReindexCities Badoo__Meetmaker__Ipc__IpcReindexCities;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcReindexCities
+Badoo__Meetmaker__Ipc__IpcReindexCities_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcReindexCities_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcRsyncdPort	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcRsyncdPort Badoo__Meetmaker__Ipc__IpcRsyncdPort;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcRsyncdPort
+Badoo__Meetmaker__Ipc__IpcRsyncdPort_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcRsyncdPort_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcS2sPort	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcS2sPort Badoo__Meetmaker__Ipc__IpcS2sPort;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcS2sPort
+Badoo__Meetmaker__Ipc__IpcS2sPort_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcS2sPort_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__IpcSnapshotSyncState	src/meetmaker-ipc.pb-c.h	/^typedef struct _Badoo__Meetmaker__Ipc__IpcSnapshotSyncState Badoo__Meetmaker__Ipc__IpcSnapshotSyncState;$/;"	t	language:C++	typeref:struct:_Badoo__Meetmaker__Ipc__IpcSnapshotSyncState
+Badoo__Meetmaker__Ipc__IpcSnapshotSyncState_Closure	src/meetmaker-ipc.pb-c.h	/^typedef void (*Badoo__Meetmaker__Ipc__IpcSnapshotSyncState_Closure)$/;"	t	language:C++
+Badoo__Meetmaker__Ipc__MsgType	src/meetmaker-ipc.pb-c.h	/^} Badoo__Meetmaker__Ipc__MsgType;$/;"	t	language:C++	typeref:enum:_Badoo__Meetmaker__Ipc__MsgType
+DirectoryOfThisScript	.ycm_extra_conf.py	/^def DirectoryOfThisScript():$/;"	f	language:Python
+FlagsForFile	.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	f	language:Python
+GetCompilationInfoForFile	.ycm_extra_conf.py	/^def GetCompilationInfoForFile( filename ):$/;"	f	language:Python
+IsHeaderFile	.ycm_extra_conf.py	/^def IsHeaderFile( filename ):$/;"	f	language:Python
+MakeRelativePathsInFlagsAbsolute	.ycm_extra_conf.py	/^def MakeRelativePathsInFlagsAbsolute( flags, working_directory ):$/;"	f	language:Python
+PROTOBUF_C_NO_DEPRECATED	src/meetmaker-ipc.pb-c.c	5;"	d	language:C	file:
+PROTOBUF_C_meetmaker_2dipc_2eproto__INCLUDED	src/meetmaker-ipc.pb-c.h	4;"	d	language:C++
+SOURCE_EXTENSIONS	.ycm_extra_conf.py	/^SOURCE_EXTENSIONS = [ '.cpp', '.cxx', '.cc', '.c', '.m', '.mm' ]$/;"	v	language:Python
+_Badoo__Meetmaker__Ipc__IpcClientRequest	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcClientRequest$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcClientResponse	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcClientResponse$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcE2sPort	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcE2sPort$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcMsg	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcMsg$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcReindexCities	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcReindexCities$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcRsyncdPort	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcRsyncdPort$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcS2sPort	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcS2sPort$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__IpcSnapshotSyncState	src/meetmaker-ipc.pb-c.h	/^struct  _Badoo__Meetmaker__Ipc__IpcSnapshotSyncState$/;"	s	language:C++
+_Badoo__Meetmaker__Ipc__MsgType	src/meetmaker-ipc.pb-c.h	/^typedef enum _Badoo__Meetmaker__Ipc__MsgType {$/;"	g	language:C++
+badoo__meetmaker__ipc__ipc_client_request__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_client_request__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_client_request__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_client_request__field_descriptors[4] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_request__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_client_request__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_request__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_client_request__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_request__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_request__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_request__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_client_request__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_request__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_client_request__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_request__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_request__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_request__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_request__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_request__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_client_request__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_client_response__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_client_response__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_client_response__field_descriptors[3] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_response__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_client_response__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_response__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_client_response__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_response__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_client_response__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_client_response__number_ranges[2 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_client_response__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_response__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_client_response__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_client_response__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_client_response__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_e2s_port__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_e2s_port__field_descriptors[3] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_e2s_port__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_e2s_port__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_e2s_port__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_e2s_port__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_e2s_port__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_e2s_port__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_e2s_port__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_e2s_port__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_e2s_port__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_e2s_port__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_e2s_port__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_e2s_port__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_msg__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_msg__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_msg__field_descriptors[8] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_msg__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_msg__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_msg__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_msg__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_msg__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_msg__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_msg__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_msg__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_msg__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_msg__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_msg__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_msg__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_reindex_cities__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_reindex_cities__field_descriptors[1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_reindex_cities__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_reindex_cities__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_reindex_cities__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_reindex_cities__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_reindex_cities__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_reindex_cities__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_reindex_cities__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_reindex_cities__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_reindex_cities__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_reindex_cities__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_reindex_cities__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_reindex_cities__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_rsyncd_port__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_rsyncd_port__field_descriptors[2] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_rsyncd_port__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_rsyncd_port__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_rsyncd_port__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_rsyncd_port__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_rsyncd_port__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_rsyncd_port__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_rsyncd_port__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_rsyncd_port__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_rsyncd_port__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_rsyncd_port__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_rsyncd_port__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_rsyncd_port__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_s2s_port__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_s2s_port__field_descriptors[3] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_s2s_port__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_s2s_port__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_s2s_port__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_s2s_port__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_s2s_port__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_s2s_port__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_s2s_port__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_s2s_port__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_s2s_port__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_s2s_port__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_s2s_port__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_s2s_port__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCMessageDescriptor badoo__meetmaker__ipc__ipc_snapshot_sync_state__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__field_descriptors	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCFieldDescriptor badoo__meetmaker__ipc__ipc_snapshot_sync_state__field_descriptors[1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__field_indices_by_name	src/meetmaker-ipc.pb-c.c	/^static const unsigned badoo__meetmaker__ipc__ipc_snapshot_sync_state__field_indices_by_name[] = {$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__free_unpacked	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_snapshot_sync_state__free_unpacked$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__get_packed_size	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_snapshot_sync_state__get_packed_size$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__init	src/meetmaker-ipc.pb-c.c	/^void   badoo__meetmaker__ipc__ipc_snapshot_sync_state__init$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__number_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__ipc_snapshot_sync_state__number_ranges[1 + 1] =$/;"	v	language:C	file:
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__pack	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_snapshot_sync_state__pack$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__pack_to_buffer	src/meetmaker-ipc.pb-c.c	/^size_t badoo__meetmaker__ipc__ipc_snapshot_sync_state__pack_to_buffer$/;"	f	language:C
+badoo__meetmaker__ipc__ipc_snapshot_sync_state__unpack	src/meetmaker-ipc.pb-c.c	/^       badoo__meetmaker__ipc__ipc_snapshot_sync_state__unpack$/;"	f	language:C
+badoo__meetmaker__ipc__msg_type__descriptor	src/meetmaker-ipc.pb-c.c	/^const ProtobufCEnumDescriptor badoo__meetmaker__ipc__msg_type__descriptor =$/;"	v	language:C
+badoo__meetmaker__ipc__msg_type__enum_values_by_name	src/meetmaker-ipc.pb-c.c	/^const ProtobufCEnumValueIndex badoo__meetmaker__ipc__msg_type__enum_values_by_name[15] =$/;"	v	language:C
+badoo__meetmaker__ipc__msg_type__enum_values_by_number	src/meetmaker-ipc.pb-c.c	/^const ProtobufCEnumValue badoo__meetmaker__ipc__msg_type__enum_values_by_number[15] =$/;"	v	language:C
+badoo__meetmaker__ipc__msg_type__value_ranges	src/meetmaker-ipc.pb-c.c	/^static const ProtobufCIntRange badoo__meetmaker__ipc__msg_type__value_ranges[] = {$/;"	v	language:C	file:
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientResponse
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcE2sPort
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcReindexCities
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcRsyncdPort
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcS2sPort
+base	src/meetmaker-ipc.pb-c.h	/^  ProtobufCMessage base;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcSnapshotSyncState
+cities	src/meetmaker-ipc.pb-c.h	/^  ProtobufCBinaryData cities;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcReindexCities
+client_request	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcClientRequest *client_request;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+client_response	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcClientResponse *client_response;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+compilation_database_folder	.ycm_extra_conf.py	/^compilation_database_folder = ''$/;"	v	language:Python
+ctx_id	src/meetmaker-ipc.pb-c.h	/^  uint64_t ctx_id;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+ctx_id	src/meetmaker-ipc.pb-c.h	/^  uint64_t ctx_id;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientResponse
+database	.ycm_extra_conf.py	/^  database = None$/;"	v	language:Python
+database	.ycm_extra_conf.py	/^  database = ycm_core.CompilationDatabase( compilation_database_folder )$/;"	v	language:Python
+e2s_port	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcE2sPort *e2s_port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+event_id_connect	src/meetmaker-ipc.pb-c.h	/^  uint32_t event_id_connect;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcE2sPort
+flags	.ycm_extra_conf.py	/^flags = [$/;"	v	language:Python
+foobar	src/test.c	/^int foobar(int lala)$/;"	f	language:C
+gpbrpc_pointer	src/meetmaker-ipc.pb-c.h	/^  uint64_t gpbrpc_pointer;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+msg_id	src/meetmaker-ipc.pb-c.h	/^  uint32_t msg_id;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+msg_id	src/meetmaker-ipc.pb-c.h	/^  uint32_t msg_id;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientResponse
+msg_type	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__MsgType msg_type;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+os	.ycm_extra_conf.py	/^import os$/;"	i	language:Python
+port	src/meetmaker-ipc.pb-c.h	/^  uint32_t port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcE2sPort
+port	src/meetmaker-ipc.pb-c.h	/^  uint32_t port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcRsyncdPort
+port	src/meetmaker-ipc.pb-c.h	/^  uint32_t port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcS2sPort
+position	src/meetmaker-ipc.pb-c.h	/^  uint32_t position;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcSnapshotSyncState
+reindex_cities	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcReindexCities *reindex_cities;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+request	src/meetmaker-ipc.pb-c.h	/^  ProtobufCBinaryData request;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientRequest
+response	src/meetmaker-ipc.pb-c.h	/^  ProtobufCBinaryData response;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcClientResponse
+rsyncd_port	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcRsyncdPort *rsyncd_port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+s2s_port	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcS2sPort *s2s_port;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+shard_id	src/meetmaker-ipc.pb-c.h	/^  uint32_t shard_id;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcRsyncdPort
+shard_id_bind	src/meetmaker-ipc.pb-c.h	/^  uint32_t shard_id_bind;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcE2sPort
+shard_id_bind	src/meetmaker-ipc.pb-c.h	/^  uint32_t shard_id_bind;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcS2sPort
+shard_id_connect	src/meetmaker-ipc.pb-c.h	/^  uint32_t shard_id_connect;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcS2sPort
+snapshot_sync_state	src/meetmaker-ipc.pb-c.h	/^  Badoo__Meetmaker__Ipc__IpcSnapshotSyncState *snapshot_sync_state;$/;"	m	language:C++	struct:_Badoo__Meetmaker__Ipc__IpcMsg
+ycm_core	.ycm_extra_conf.py	/^import ycm_core$/;"	i	language:Python
